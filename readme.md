@@ -9,5 +9,5 @@ A simple "roll the dice" program.  When the user rolls the dice, the program wil
 ### Usage
 - Run
 `$ python main.py`
-- Specify number of dice ( 1 - 3)
+- Specify number of dice ( 1 - 3) and use the backspace key to change number
 - Click "Roll" button
