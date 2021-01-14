@@ -1,5 +1,5 @@
 ##  Global AI Hub - Top Learner Projects
-This repository contains projects of Global AI Hub - Top Learners Projects. Projects are as follows:
+This repository contains projects of Global AI Hub - Top Learner Projects. Projects are as follows:
 
 ------------
 
